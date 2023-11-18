@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="ingrese_la_divisa">ingrese la divisa</string>
+    <string name="volver_al_inicio">Volver al inicio</string>
+    <string-array name="Temperatura">
+        <item>Celsius-Fahrenheit</item>
+        <item>Fahrenheit-Celsius</item>
+
+        <item>Celsius-Kelvin</item>
+
+
+        <item>Fahrenheit-Kelvin</item>
+        <item>Kelvin-Fahrenheit</item>
+    </string-array>
+
+    <string-array name="Peso">
+        <item>Kilogramos a Libras</item>
+        <item>Libras a Kilogramos</item>
+
+        <item>Gramos a Libras</item>
+        <item>Libras a Gramos</item>
+
+        <item>Kilogramos a Gramos</item>
+        <item>Gramos a Kilogramos</item>
+
+        <item>Toneladas a Kilogramos</item>
+        <item>Kilogramos a Toneladas</item>
+
+        <item>Libras a Onzas</item>
+        <item>Onzas a Libras</item>
+
+        <item>Gramos a Onzas</item>
+        <item>Onzas a Gramos</item>
+
+        <item>Toneladas a Libras</item>
+        <item>Libras a Toneladas</item>
+
+        <item>Toneladas a Gramos</item>
+        <item>Gramos a Toneladas</item>
+
+        <item>Toneladas a Miligramos</item>
+        <item>Miligramos a Toneladas</item>
+
+        <item>Kilogramos a Miligramos</item>
+        <item>Miligramos a Kilogramos</item>
+
+    </string-array>
+
+
+
+
+
+    <string-array name="Divisas">
+        <item>COP a USD</item>
+        <item>USD a COP</item>
+        <item>MXN a USD</item>
+        <item>USD a MXN</item>
+        <item>MXN a COP</item>
+        <item>COP a MXN</item>
+    </string-array>
+
+
+</resources>
